@@ -7,10 +7,9 @@
 
  **💫 About Me:**
 
-  - 🔭 I am Student of Information Technology 🎓 at DHARMSINH DESAI UNIVERSITY, Nadiad.
-  - 🌱 I'm currently in to **MERN stack**
+  - 🎓 I am Graduate Student of Computer Science at New Jersey Institute of Technology.
+  - 🎓 Completed my Undergrad from Dharmsinh Desai University, Nadiad.
   - 🤔 I'm looking at **AI-ML**
-  - 💬 Ask me about **React, Nextjs, nodejs**
  - 📫 How to reach me **arthnangar1@gmail.com**
 
 
