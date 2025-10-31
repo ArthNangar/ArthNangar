@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="linkedin_banner.jpeg">
+  <img src="arthnangar1.jpeg">
 </div>
 <h1 align="center"> Hi 👋, I'm Arth Nangar </h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" src="gitbanner.gif" alt="Gitbanner" width="300" height="300">
 
  **💫 About Me:**
