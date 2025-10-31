@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="arthnangar1.jpeg">
+  <img src="arthnangar1.png">
 </div>
 <h1 align="center"> Hi 👋, I'm Arth Nangar </h1>
 <h3 align="center">A passionate Software Developer</h3>
