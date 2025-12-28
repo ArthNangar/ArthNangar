@@ -10,7 +10,8 @@
   - 🎓 I am Graduate Student of Computer Science at New Jersey Institute of Technology.
   - 🎓 Completed my Undergrad from Dharmsinh Desai University, Nadiad.
   - 🤔 I'm looking at **AI-ML**
- - 📫 How to reach me **arthnangar1@gmail.com**
+  - 📫 How to reach me **arthnangar3@gmail.com**
+  - Check out my Portfolio : **https://arthnangarportfolio.vercel.app/**
 
 
 
