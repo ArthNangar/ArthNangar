@@ -12,7 +12,6 @@
   - 🤔 I'm looking at **AI-ML**
   - 📫 How to reach me **arthnangar3@gmail.com**
   - Check out my Portfolio : **https://arthnangarportfolio.vercel.app/**
-  - ![Profile Views](https://komarev.com/ghpvc/?username=ArthNangar&color=blue&style=flat)
 
 
 
