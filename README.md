@@ -2,9 +2,9 @@
   <img src="arthnangar1.png">
 </div>
 <h1 align="center"> Hi 👋, I'm Arth Nangar </h1>
-<h3 align="center">**CS Graduate Student @ NJIT** | Full-Stack Developer | AI/ML Enthusiast | </h3>
+<h3 align="center">CS Graduate Student @ NJIT | Software Developer | AI/ML Enthusiast | Data Analyst </h3>
 
- ** About Me:**
+ **About Me:**
 
   - 🎓 Currently pursuing M.S. in Computer Science at New Jersey Institute of Technology. -- Current GPA: 3.67 / 4.0
   - 🎓Completed my Undergrad in Information Technology from Dharmsinh Desai University, Nadiad.
