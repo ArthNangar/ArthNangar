@@ -2,7 +2,7 @@
   <img src="arthnangar1.png">
 </div>
 <h1 align="center"> Hi 👋, I'm Arth Nangar </h1>
-<h3 align="center">CS Graduate Student @ NJIT | Software Developer | AI/ML Enthusiast | Data Analyst </h3>
+<h3 align="center">CS Graduate Student @ NJIT | Software Developer | AI/ML Enthusiast | Data Analyst | </h3>
 
  **About Me:**
 
@@ -13,13 +13,6 @@
   - Check out my Portfolio : **https://arthnangarportfolio.vercel.app/**
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arthnangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arthnangar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arth-nangar-574589241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arth-nangar-574589241" height="30" width="40" /></a>
-<a href="https://instagram.com/arthnangar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthnangar7" height="30" width="40" /></a>
-</p>
 <br>
 
 # ⚡ Tech Stack:
