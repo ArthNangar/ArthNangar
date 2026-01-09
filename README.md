@@ -2,14 +2,13 @@
   <img src="arthnangar1.png">
 </div>
 <h1 align="center"> Hi 👋, I'm Arth Nangar </h1>
-<h3 align="center">A passionate Software Developer</h3>
-<img align="right" src="gitbanner.gif" alt="Gitbanner" width="300" height="300">
+<h3 align="center">**CS Graduate Student @ NJIT** | Full-Stack Developer | AI/ML Enthusiast | </h3>
 
- **💫 About Me:**
+ ** About Me:**
 
-  - 🎓 I am Graduate Student of Computer Science at New Jersey Institute of Technology.
-  - 🎓 Completed my Undergrad from Dharmsinh Desai University, Nadiad.
-  - 🤔 I'm looking at **AI-ML**
+  - 🎓 Currently pursuing M.S. in Computer Science at New Jersey Institute of Technology. -- Current GPA: 3.67 / 4.0
+  - 🎓Completed my Undergrad in Information Technology from Dharmsinh Desai University, Nadiad.
+  - 💼 Previously: Software Developer Intern at Guj Info Petro Limited, Gandhinagar.
   - 📫 How to reach me **arthnangar3@gmail.com**
   - Check out my Portfolio : **https://arthnangarportfolio.vercel.app/**
 
