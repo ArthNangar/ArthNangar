@@ -17,6 +17,8 @@
 
 # ⚡ Tech Stack:
 
+- Technologies and tools I’ve used to build real-world applications or learned in academia.
+
 ### 🚀 Languages
 
 <table align="center">
